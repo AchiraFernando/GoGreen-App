@@ -1,0 +1,23 @@
+﻿<Page
+    x:Class="Menu.Register"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Menu"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Background="Black">
+
+    <Grid Background="White">
+        <Rectangle Fill="#1B5E20" Height="66" Margin="0,-1,0,0" Stroke="#1B5E20" VerticalAlignment="Top"/>
+        <TextBlock x:Name="textBlock" Margin="27,11,240,0" TextWrapping="Wrap" Text="Register" VerticalAlignment="Top" Foreground="White" FontSize="37.333"/>
+        <Button x:Name="registerBut" Content="Register" HorizontalAlignment="Stretch" Margin="10,567,10,0" VerticalAlignment="Top" Background="#1B5E20" FontSize="24" Click="button_Click"/>
+        <TextBox x:Name="txtName" Margin="10,137,10,0" TextWrapping="Wrap" PlaceholderText="Full Name" VerticalAlignment="Top" BorderBrush="#1B5E20"/>
+        <TextBox x:Name="txtEmail" Margin="10,208,10,0" TextWrapping="Wrap" PlaceholderText="Email Address" VerticalAlignment="Top" TextChanged="textBox1_TextChanged" BorderBrush="#1B5E20"/>
+        <TextBox x:Name="txtNumber" Margin="10,274,10,0" TextWrapping="Wrap" PlaceholderText="Contact Number" VerticalAlignment="Top" BorderBrush="#1B5E20"/>
+        <TextBox x:Name="txtLocation" Margin="10,339,10,0" TextWrapping="Wrap" PlaceholderText="Location" VerticalAlignment="Top" BorderBrush="#1B5E20"/>
+        <PasswordBox x:Name="txtPass" Margin="10,406,10,0"  PlaceholderText="Enter Password" VerticalAlignment="Top" BorderBrush="#1B5E20"/>
+        <TextBlock x:Name="labelBasicInfo" Margin="17,89,209,0" TextWrapping="Wrap" Text="Basic Information" VerticalAlignment="Top" Foreground="#1B5E20" FontSize="22.667"/>
+        <PasswordBox x:Name="txtPassConfirm" Margin="10,472,10,0" PlaceholderText="Confirm Password" VerticalAlignment="Top" BorderBrush="#1B5E20"/>
+
+    </Grid>
+</Page>

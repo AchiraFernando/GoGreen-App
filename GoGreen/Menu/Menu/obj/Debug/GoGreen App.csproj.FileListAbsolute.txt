@@ -1,0 +1,1630 @@
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\Menu\Menu\obj\Debug\App.g.i.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\Menu\Menu\obj\Debug\App.g.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\Menu\Menu\obj\Debug\MenuPage.g.i.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\Menu\Menu\obj\Debug\MenuPage.g.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\Menu\Menu\obj\Debug\Register.g.i.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\Menu\Menu\obj\Debug\Register.g.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\Menu\Menu\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\Menu\Menu\obj\Debug\App.xaml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\Menu\Menu\obj\Debug\MenuPage.xaml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\Menu\Menu\obj\Debug\Register.xaml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\Menu\Menu\obj\Debug\App.xbf
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\Menu\Menu\obj\Debug\MenuPage.xbf
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\Menu\Menu\obj\Debug\Register.xbf
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\Menu\Menu\obj\Debug\XamlSaveStateFile.xml
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\bin\Debug\App.xbf
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\bin\Debug\MenuPage.xbf
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\bin\Debug\Register.xbf
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\bin\Debug\Menu.xr.xml
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\bin\Debug\resources.pri
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\bin\Debug\AppxManifest.xml
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\bin\Debug\GoGreen App.build.appxrecipe
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\obj\Debug\Menu.pdb
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\obj\Debug\priconfig.xml
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\obj\Debug\priconfig.xml.intermediate
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\obj\Debug\layout.resfiles
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\obj\Debug\layout.resfiles.intermediate
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\obj\Debug\resources.resfiles
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\obj\Debug\resources.resfiles.intermediate
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\obj\Debug\pri.resfiles
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\obj\Debug\pri.resfiles.intermediate
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\obj\Debug\qualifiers.txt
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\obj\Debug\qualifiers.txt.intermediate
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\obj\Debug\ProjectArchitectures.txt
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\obj\Debug\Login.g.i.cs
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\obj\Debug\Login.g.cs
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\obj\Debug\PostAdd.g.i.cs
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\obj\Debug\PostAdd.g.cs
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\obj\Debug\QuickSearch.g.i.cs
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\obj\Debug\QuickSearch.g.cs
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\obj\Debug\Login.xaml
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\obj\Debug\PostAdd.xaml
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\obj\Debug\QuickSearch.xaml
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\obj\Debug\Login.xbf
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\obj\Debug\PostAdd.xbf
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\obj\Debug\QuickSearch.xbf
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\bin\Debug\Login.xbf
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\bin\Debug\PostAdd.xbf
+C:\Users\achirafernando\documents\visual studio 2015\Projects\Menu\Menu\bin\Debug\QuickSearch.xbf
+C:\Users\madus\Downloads\Menu\Menu\Menu\bin\Debug\App.xbf
+C:\Users\madus\Downloads\Menu\Menu\Menu\bin\Debug\Login.xbf
+C:\Users\madus\Downloads\Menu\Menu\Menu\bin\Debug\MenuPage.xbf
+C:\Users\madus\Downloads\Menu\Menu\Menu\bin\Debug\PostAdd.xbf
+C:\Users\madus\Downloads\Menu\Menu\Menu\bin\Debug\QuickSearch.xbf
+C:\Users\madus\Downloads\Menu\Menu\Menu\bin\Debug\Register.xbf
+C:\Users\madus\Downloads\Menu\Menu\Menu\bin\Debug\Menu.xr.xml
+C:\Users\madus\Downloads\Menu\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\madus\Downloads\Menu\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\madus\Downloads\Menu\Menu\Menu\bin\Debug\resources.pri
+C:\Users\madus\Downloads\Menu\Menu\Menu\bin\Debug\AppxManifest.xml
+C:\Users\madus\Downloads\Menu\Menu\Menu\bin\Debug\GoGreen App.build.appxrecipe
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\App.g.i.cs
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\App.g.cs
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\Login.g.i.cs
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\Login.g.cs
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\MenuPage.g.i.cs
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\MenuPage.g.cs
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\PostAdd.g.i.cs
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\PostAdd.g.cs
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\QuickSearch.g.i.cs
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\QuickSearch.g.cs
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\Register.g.i.cs
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\Register.g.cs
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\App.xaml
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\Login.xaml
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\MenuPage.xaml
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\PostAdd.xaml
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\QuickSearch.xaml
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\Register.xaml
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\App.xbf
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\Login.xbf
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\MenuPage.xbf
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\PostAdd.xbf
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\QuickSearch.xbf
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\Register.xbf
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\XamlSaveStateFile.xml
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\Menu.pdb
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\priconfig.xml
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\priconfig.xml.intermediate
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\layout.resfiles
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\layout.resfiles.intermediate
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\resources.resfiles
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\resources.resfiles.intermediate
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\pri.resfiles
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\pri.resfiles.intermediate
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\qualifiers.txt
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\qualifiers.txt.intermediate
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\ProjectArchitectures.txt
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\GoGreen App.csprojResolveAssemblyReference.cache
+C:\Users\madus\Downloads\Menu\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\madus\Downloads\Menu\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\madus\Downloads\Menu\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\madus\Downloads\Menu\Menu\Menu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\madus\Downloads\Menu\Menu\Menu\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\madus\Downloads\Menu\Menu\Menu\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\madus\Downloads\Menu\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\madus\Downloads\Menu\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\madus\Downloads\Menu\Menu\Menu\bin\Debug\Newtonsoft.Json.xml
+C:\Users\madus\Downloads\Menu\Menu\Menu\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\madus\Downloads\Menu\Menu\Menu\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\GoGreen App.csproj.GenerateResource.Cache
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\madus\Downloads\Menu\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+F:\Menu\Menu\obj\Debug\GoGreen App.csprojResolveAssemblyReference.cache
+F:\Menu\Menu\obj\Debug\App.g.i.cs
+F:\Menu\Menu\obj\Debug\App.g.cs
+F:\Menu\Menu\obj\Debug\Login.g.i.cs
+F:\Menu\Menu\obj\Debug\Login.g.cs
+F:\Menu\Menu\obj\Debug\MenuPage.g.i.cs
+F:\Menu\Menu\obj\Debug\MenuPage.g.cs
+F:\Menu\Menu\obj\Debug\PostAdd.g.i.cs
+F:\Menu\Menu\obj\Debug\PostAdd.g.cs
+F:\Menu\Menu\obj\Debug\QuickSearch.g.i.cs
+F:\Menu\Menu\obj\Debug\QuickSearch.g.cs
+F:\Menu\Menu\obj\Debug\Register.g.i.cs
+F:\Menu\Menu\obj\Debug\Register.g.cs
+F:\Menu\Menu\obj\Debug\XamlTypeInfo.g.cs
+F:\Menu\Menu\obj\Debug\App.xaml
+F:\Menu\Menu\obj\Debug\Login.xaml
+F:\Menu\Menu\obj\Debug\MenuPage.xaml
+F:\Menu\Menu\obj\Debug\QuickSearch.xaml
+F:\Menu\Menu\obj\Debug\Register.xaml
+F:\Menu\Menu\obj\Debug\App.xbf
+F:\Menu\Menu\obj\Debug\Login.xbf
+F:\Menu\Menu\obj\Debug\MenuPage.xbf
+F:\Menu\Menu\obj\Debug\QuickSearch.xbf
+F:\Menu\Menu\obj\Debug\Register.xbf
+F:\Menu\Menu\obj\Debug\XamlSaveStateFile.xml
+F:\Menu\Menu\obj\Debug\Menu.exe
+F:\Menu\Menu\obj\Debug\Menu.pdb
+F:\Menu\Menu\bin\Debug\Menu.exe.config
+F:\Menu\Menu\bin\Debug\App.xbf
+F:\Menu\Menu\bin\Debug\Login.xbf
+F:\Menu\Menu\bin\Debug\MenuPage.xbf
+F:\Menu\Menu\bin\Debug\PostAdd.xbf
+F:\Menu\Menu\bin\Debug\QuickSearch.xbf
+F:\Menu\Menu\bin\Debug\Register.xbf
+F:\Menu\Menu\bin\Debug\Menu.xr.xml
+F:\Menu\Menu\bin\Debug\Menu.exe
+F:\Menu\Menu\bin\Debug\Menu.pdb
+F:\Menu\Menu\bin\Debug\resources.pri
+F:\Menu\Menu\bin\Debug\AppxManifest.xml
+F:\Menu\Menu\bin\Debug\GoGreen App.build.appxrecipe
+F:\Menu\Menu\bin\Debug\Microsoft.Data.Edm.dll
+F:\Menu\Menu\bin\Debug\Microsoft.Data.OData.dll
+F:\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+F:\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+F:\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+F:\Menu\Menu\bin\Debug\Newtonsoft.Json.dll
+F:\Menu\Menu\bin\Debug\System.Net.Http.Extensions.dll
+F:\Menu\Menu\bin\Debug\System.Net.Http.Primitives.dll
+F:\Menu\Menu\bin\Debug\System.Spatial.dll
+F:\Menu\Menu\bin\Debug\Microsoft.Data.Edm.xml
+F:\Menu\Menu\bin\Debug\Microsoft.Data.OData.xml
+F:\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+F:\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+F:\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+F:\Menu\Menu\bin\Debug\Newtonsoft.Json.xml
+F:\Menu\Menu\bin\Debug\System.Net.Http.Extensions.xml
+F:\Menu\Menu\bin\Debug\System.Net.Http.Primitives.xml
+F:\Menu\Menu\bin\Debug\System.Spatial.xml
+F:\Menu\Menu\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+F:\Menu\Menu\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+F:\Menu\Menu\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+F:\Menu\Menu\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+F:\Menu\Menu\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+F:\Menu\Menu\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+F:\Menu\Menu\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+F:\Menu\Menu\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\Menu\Menu\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\Menu\Menu\bin\Debug\de\Microsoft.Data.OData.resources.dll
+F:\Menu\Menu\bin\Debug\es\Microsoft.Data.OData.resources.dll
+F:\Menu\Menu\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+F:\Menu\Menu\bin\Debug\it\Microsoft.Data.OData.resources.dll
+F:\Menu\Menu\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+F:\Menu\Menu\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+F:\Menu\Menu\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+F:\Menu\Menu\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\Menu\Menu\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\Menu\Menu\bin\Debug\de\System.Spatial.resources.dll
+F:\Menu\Menu\bin\Debug\es\System.Spatial.resources.dll
+F:\Menu\Menu\bin\Debug\fr\System.Spatial.resources.dll
+F:\Menu\Menu\bin\Debug\it\System.Spatial.resources.dll
+F:\Menu\Menu\bin\Debug\ja\System.Spatial.resources.dll
+F:\Menu\Menu\bin\Debug\ko\System.Spatial.resources.dll
+F:\Menu\Menu\bin\Debug\ru\System.Spatial.resources.dll
+F:\Menu\Menu\bin\Debug\zh-Hans\System.Spatial.resources.dll
+F:\Menu\Menu\bin\Debug\zh-Hant\System.Spatial.resources.dll
+F:\Menu\Menu\obj\Debug\PostAdd.xaml
+F:\Menu\Menu\obj\Debug\PostAdd.xbf
+F:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\en-US\Microsoft.Data.Edm.resw
+F:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\de\Microsoft.Data.Edm.resw
+F:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\es\Microsoft.Data.Edm.resw
+F:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\fr\Microsoft.Data.Edm.resw
+F:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\it\Microsoft.Data.Edm.resw
+F:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\ja\Microsoft.Data.Edm.resw
+F:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\ko\Microsoft.Data.Edm.resw
+F:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\ru\Microsoft.Data.Edm.resw
+F:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\zh-Hans\Microsoft.Data.Edm.resw
+F:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\zh-Hant\Microsoft.Data.Edm.resw
+F:\Menu\Menu\obj\Debug\Microsoft.Data.OData\en-US\Microsoft.Data.OData.resw
+F:\Menu\Menu\obj\Debug\Microsoft.Data.OData\de\Microsoft.Data.OData.resw
+F:\Menu\Menu\obj\Debug\Microsoft.Data.OData\es\Microsoft.Data.OData.resw
+F:\Menu\Menu\obj\Debug\Microsoft.Data.OData\fr\Microsoft.Data.OData.resw
+F:\Menu\Menu\obj\Debug\Microsoft.Data.OData\it\Microsoft.Data.OData.resw
+F:\Menu\Menu\obj\Debug\Microsoft.Data.OData\ja\Microsoft.Data.OData.resw
+F:\Menu\Menu\obj\Debug\Microsoft.Data.OData\ko\Microsoft.Data.OData.resw
+F:\Menu\Menu\obj\Debug\Microsoft.Data.OData\ru\Microsoft.Data.OData.resw
+F:\Menu\Menu\obj\Debug\Microsoft.Data.OData\zh-Hans\Microsoft.Data.OData.resw
+F:\Menu\Menu\obj\Debug\Microsoft.Data.OData\zh-Hant\Microsoft.Data.OData.resw
+F:\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+F:\Menu\Menu\obj\Debug\System.Spatial\en-US\System.Spatial.resw
+F:\Menu\Menu\obj\Debug\System.Spatial\de\System.Spatial.resw
+F:\Menu\Menu\obj\Debug\System.Spatial\es\System.Spatial.resw
+F:\Menu\Menu\obj\Debug\System.Spatial\fr\System.Spatial.resw
+F:\Menu\Menu\obj\Debug\System.Spatial\it\System.Spatial.resw
+F:\Menu\Menu\obj\Debug\System.Spatial\ja\System.Spatial.resw
+F:\Menu\Menu\obj\Debug\System.Spatial\ko\System.Spatial.resw
+F:\Menu\Menu\obj\Debug\System.Spatial\ru\System.Spatial.resw
+F:\Menu\Menu\obj\Debug\System.Spatial\zh-Hans\System.Spatial.resw
+F:\Menu\Menu\obj\Debug\System.Spatial\zh-Hant\System.Spatial.resw
+F:\Menu\Menu\obj\Debug\GoGreen App.csproj.GenerateResource.Cache
+F:\Menu\Menu\obj\Debug\Microsoft.Data.Edm.pri
+F:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\qualifiers.txt
+F:\Menu\Menu\obj\Debug\Microsoft.Data.OData.pri
+F:\Menu\Menu\obj\Debug\Microsoft.Data.OData\qualifiers.txt
+F:\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile.pri
+F:\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+F:\Menu\Menu\obj\Debug\System.Spatial.pri
+F:\Menu\Menu\obj\Debug\System.Spatial\qualifiers.txt
+F:\Menu\Menu\obj\Debug\priconfig.xml
+F:\Menu\Menu\obj\Debug\priconfig.xml.intermediate
+F:\Menu\Menu\obj\Debug\layout.resfiles
+F:\Menu\Menu\obj\Debug\layout.resfiles.intermediate
+F:\Menu\Menu\obj\Debug\resources.resfiles
+F:\Menu\Menu\obj\Debug\resources.resfiles.intermediate
+F:\Menu\Menu\obj\Debug\pri.resfiles
+F:\Menu\Menu\obj\Debug\pri.resfiles.intermediate
+F:\Menu\Menu\obj\Debug\qualifiers.txt
+F:\Menu\Menu\obj\Debug\qualifiers.txt.intermediate
+F:\Menu\Menu\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Menu\Menu\obj\Debug\ProjectArchitectures.txt
+F:\Menu\Menu\obj\Debug\Explore.g.i.cs
+F:\Menu\Menu\obj\Debug\Explore.g.cs
+F:\Menu\Menu\obj\Debug\Explore.xaml
+F:\Menu\Menu\obj\Debug\Explore.xbf
+F:\Menu\Menu\bin\Debug\Explore.xbf
+F:\Menu\Menu\obj\Debug\ViewMyAdds.g.i.cs
+F:\Menu\Menu\obj\Debug\ViewMyAdds.g.cs
+F:\Menu\Menu\obj\Debug\ViewMyAdds.xaml
+F:\Menu\Menu\obj\Debug\ViewMyAdds.xbf
+F:\Menu\Menu\bin\Debug\ViewMyAdds.xbf
+F:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\layout.resfiles
+F:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\layout.resfiles.intermediate
+F:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\Resources.resfiles
+F:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\Resources.resfiles.intermediate
+F:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\pri.resfiles
+F:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\pri.resfiles.intermediate
+F:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\priconfig.xml
+F:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\priconfig.xml.intermediate
+F:\Menu\Menu\obj\Debug\Microsoft.Data.OData\layout.resfiles
+F:\Menu\Menu\obj\Debug\Microsoft.Data.OData\layout.resfiles.intermediate
+F:\Menu\Menu\obj\Debug\Microsoft.Data.OData\Resources.resfiles
+F:\Menu\Menu\obj\Debug\Microsoft.Data.OData\Resources.resfiles.intermediate
+F:\Menu\Menu\obj\Debug\Microsoft.Data.OData\pri.resfiles
+F:\Menu\Menu\obj\Debug\Microsoft.Data.OData\pri.resfiles.intermediate
+F:\Menu\Menu\obj\Debug\Microsoft.Data.OData\priconfig.xml
+F:\Menu\Menu\obj\Debug\Microsoft.Data.OData\priconfig.xml.intermediate
+F:\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles
+F:\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+F:\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+F:\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+F:\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles
+F:\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+F:\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml
+F:\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+F:\Menu\Menu\obj\Debug\System.Spatial\layout.resfiles
+F:\Menu\Menu\obj\Debug\System.Spatial\layout.resfiles.intermediate
+F:\Menu\Menu\obj\Debug\System.Spatial\Resources.resfiles
+F:\Menu\Menu\obj\Debug\System.Spatial\Resources.resfiles.intermediate
+F:\Menu\Menu\obj\Debug\System.Spatial\pri.resfiles
+F:\Menu\Menu\obj\Debug\System.Spatial\pri.resfiles.intermediate
+F:\Menu\Menu\obj\Debug\System.Spatial\priconfig.xml
+F:\Menu\Menu\obj\Debug\System.Spatial\priconfig.xml.intermediate
+D:\Menu\Menu\bin\Debug\Menu.exe.config
+D:\Menu\Menu\bin\Debug\App.xbf
+D:\Menu\Menu\bin\Debug\Explore.xbf
+D:\Menu\Menu\bin\Debug\Login.xbf
+D:\Menu\Menu\bin\Debug\MenuPage.xbf
+D:\Menu\Menu\bin\Debug\PostAdd.xbf
+D:\Menu\Menu\bin\Debug\QuickSearch.xbf
+D:\Menu\Menu\bin\Debug\Register.xbf
+D:\Menu\Menu\bin\Debug\ViewMyAdds.xbf
+D:\Menu\Menu\bin\Debug\Menu.xr.xml
+D:\Menu\Menu\bin\Debug\Menu.exe
+D:\Menu\Menu\bin\Debug\Menu.pdb
+D:\Menu\Menu\bin\Debug\resources.pri
+D:\Menu\Menu\bin\Debug\AppxManifest.xml
+D:\Menu\Menu\bin\Debug\GoGreen App.build.appxrecipe
+D:\Menu\Menu\bin\Debug\Microsoft.Data.Edm.dll
+D:\Menu\Menu\bin\Debug\Microsoft.Data.OData.dll
+D:\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+D:\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+D:\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\Menu\Menu\bin\Debug\Newtonsoft.Json.dll
+D:\Menu\Menu\bin\Debug\System.Net.Http.Extensions.dll
+D:\Menu\Menu\bin\Debug\System.Net.Http.Primitives.dll
+D:\Menu\Menu\bin\Debug\System.Spatial.dll
+D:\Menu\Menu\bin\Debug\Microsoft.Data.Edm.xml
+D:\Menu\Menu\bin\Debug\Microsoft.Data.OData.xml
+D:\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+D:\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+D:\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+D:\Menu\Menu\bin\Debug\Newtonsoft.Json.xml
+D:\Menu\Menu\bin\Debug\System.Net.Http.Extensions.xml
+D:\Menu\Menu\bin\Debug\System.Net.Http.Primitives.xml
+D:\Menu\Menu\bin\Debug\System.Spatial.xml
+D:\Menu\Menu\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\Menu\Menu\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\Menu\Menu\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\Menu\Menu\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\Menu\Menu\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\Menu\Menu\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\Menu\Menu\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\Menu\Menu\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Menu\Menu\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Menu\Menu\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\Menu\Menu\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\Menu\Menu\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\Menu\Menu\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\Menu\Menu\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\Menu\Menu\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\Menu\Menu\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\Menu\Menu\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Menu\Menu\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Menu\Menu\bin\Debug\de\System.Spatial.resources.dll
+D:\Menu\Menu\bin\Debug\es\System.Spatial.resources.dll
+D:\Menu\Menu\bin\Debug\fr\System.Spatial.resources.dll
+D:\Menu\Menu\bin\Debug\it\System.Spatial.resources.dll
+D:\Menu\Menu\bin\Debug\ja\System.Spatial.resources.dll
+D:\Menu\Menu\bin\Debug\ko\System.Spatial.resources.dll
+D:\Menu\Menu\bin\Debug\ru\System.Spatial.resources.dll
+D:\Menu\Menu\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\Menu\Menu\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\Menu\Menu\obj\Debug\GoGreen App.csprojResolveAssemblyReference.cache
+D:\Menu\Menu\obj\Debug\App.g.i.cs
+D:\Menu\Menu\obj\Debug\App.g.cs
+D:\Menu\Menu\obj\Debug\Explore.g.i.cs
+D:\Menu\Menu\obj\Debug\Explore.g.cs
+D:\Menu\Menu\obj\Debug\Login.g.i.cs
+D:\Menu\Menu\obj\Debug\Login.g.cs
+D:\Menu\Menu\obj\Debug\MenuPage.g.i.cs
+D:\Menu\Menu\obj\Debug\MenuPage.g.cs
+D:\Menu\Menu\obj\Debug\PostAdd.g.i.cs
+D:\Menu\Menu\obj\Debug\PostAdd.g.cs
+D:\Menu\Menu\obj\Debug\QuickSearch.g.i.cs
+D:\Menu\Menu\obj\Debug\QuickSearch.g.cs
+D:\Menu\Menu\obj\Debug\Register.g.i.cs
+D:\Menu\Menu\obj\Debug\Register.g.cs
+D:\Menu\Menu\obj\Debug\ViewMyAdds.g.i.cs
+D:\Menu\Menu\obj\Debug\ViewMyAdds.g.cs
+D:\Menu\Menu\obj\Debug\XamlTypeInfo.g.cs
+D:\Menu\Menu\obj\Debug\App.xaml
+D:\Menu\Menu\obj\Debug\Explore.xaml
+D:\Menu\Menu\obj\Debug\Login.xaml
+D:\Menu\Menu\obj\Debug\MenuPage.xaml
+D:\Menu\Menu\obj\Debug\PostAdd.xaml
+D:\Menu\Menu\obj\Debug\QuickSearch.xaml
+D:\Menu\Menu\obj\Debug\Register.xaml
+D:\Menu\Menu\obj\Debug\ViewMyAdds.xaml
+D:\Menu\Menu\obj\Debug\App.xbf
+D:\Menu\Menu\obj\Debug\Explore.xbf
+D:\Menu\Menu\obj\Debug\Login.xbf
+D:\Menu\Menu\obj\Debug\MenuPage.xbf
+D:\Menu\Menu\obj\Debug\PostAdd.xbf
+D:\Menu\Menu\obj\Debug\QuickSearch.xbf
+D:\Menu\Menu\obj\Debug\Register.xbf
+D:\Menu\Menu\obj\Debug\ViewMyAdds.xbf
+D:\Menu\Menu\obj\Debug\XamlSaveStateFile.xml
+D:\Menu\Menu\obj\Debug\Menu.exe
+D:\Menu\Menu\obj\Debug\Menu.pdb
+D:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\en-US\Microsoft.Data.Edm.resw
+D:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\de\Microsoft.Data.Edm.resw
+D:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\es\Microsoft.Data.Edm.resw
+D:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\fr\Microsoft.Data.Edm.resw
+D:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\it\Microsoft.Data.Edm.resw
+D:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\ja\Microsoft.Data.Edm.resw
+D:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\ko\Microsoft.Data.Edm.resw
+D:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\ru\Microsoft.Data.Edm.resw
+D:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\zh-Hans\Microsoft.Data.Edm.resw
+D:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\zh-Hant\Microsoft.Data.Edm.resw
+D:\Menu\Menu\obj\Debug\Microsoft.Data.OData\en-US\Microsoft.Data.OData.resw
+D:\Menu\Menu\obj\Debug\Microsoft.Data.OData\de\Microsoft.Data.OData.resw
+D:\Menu\Menu\obj\Debug\Microsoft.Data.OData\es\Microsoft.Data.OData.resw
+D:\Menu\Menu\obj\Debug\Microsoft.Data.OData\fr\Microsoft.Data.OData.resw
+D:\Menu\Menu\obj\Debug\Microsoft.Data.OData\it\Microsoft.Data.OData.resw
+D:\Menu\Menu\obj\Debug\Microsoft.Data.OData\ja\Microsoft.Data.OData.resw
+D:\Menu\Menu\obj\Debug\Microsoft.Data.OData\ko\Microsoft.Data.OData.resw
+D:\Menu\Menu\obj\Debug\Microsoft.Data.OData\ru\Microsoft.Data.OData.resw
+D:\Menu\Menu\obj\Debug\Microsoft.Data.OData\zh-Hans\Microsoft.Data.OData.resw
+D:\Menu\Menu\obj\Debug\Microsoft.Data.OData\zh-Hant\Microsoft.Data.OData.resw
+D:\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+D:\Menu\Menu\obj\Debug\System.Spatial\en-US\System.Spatial.resw
+D:\Menu\Menu\obj\Debug\System.Spatial\de\System.Spatial.resw
+D:\Menu\Menu\obj\Debug\System.Spatial\es\System.Spatial.resw
+D:\Menu\Menu\obj\Debug\System.Spatial\fr\System.Spatial.resw
+D:\Menu\Menu\obj\Debug\System.Spatial\it\System.Spatial.resw
+D:\Menu\Menu\obj\Debug\System.Spatial\ja\System.Spatial.resw
+D:\Menu\Menu\obj\Debug\System.Spatial\ko\System.Spatial.resw
+D:\Menu\Menu\obj\Debug\System.Spatial\ru\System.Spatial.resw
+D:\Menu\Menu\obj\Debug\System.Spatial\zh-Hans\System.Spatial.resw
+D:\Menu\Menu\obj\Debug\System.Spatial\zh-Hant\System.Spatial.resw
+D:\Menu\Menu\obj\Debug\GoGreen App.csproj.GenerateResource.Cache
+D:\Menu\Menu\obj\Debug\Microsoft.Data.Edm.pri
+D:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\qualifiers.txt
+D:\Menu\Menu\obj\Debug\Microsoft.Data.OData.pri
+D:\Menu\Menu\obj\Debug\Microsoft.Data.OData\qualifiers.txt
+D:\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile.pri
+D:\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+D:\Menu\Menu\obj\Debug\System.Spatial.pri
+D:\Menu\Menu\obj\Debug\System.Spatial\qualifiers.txt
+D:\Menu\Menu\obj\Debug\priconfig.xml
+D:\Menu\Menu\obj\Debug\priconfig.xml.intermediate
+D:\Menu\Menu\obj\Debug\layout.resfiles
+D:\Menu\Menu\obj\Debug\layout.resfiles.intermediate
+D:\Menu\Menu\obj\Debug\resources.resfiles
+D:\Menu\Menu\obj\Debug\resources.resfiles.intermediate
+D:\Menu\Menu\obj\Debug\pri.resfiles
+D:\Menu\Menu\obj\Debug\pri.resfiles.intermediate
+D:\Menu\Menu\obj\Debug\qualifiers.txt
+D:\Menu\Menu\obj\Debug\qualifiers.txt.intermediate
+D:\Menu\Menu\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Menu\Menu\obj\Debug\ProjectArchitectures.txt
+D:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\layout.resfiles
+D:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\layout.resfiles.intermediate
+D:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\Resources.resfiles
+D:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\Resources.resfiles.intermediate
+D:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\pri.resfiles
+D:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\pri.resfiles.intermediate
+D:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\priconfig.xml
+D:\Menu\Menu\obj\Debug\Microsoft.Data.Edm\priconfig.xml.intermediate
+D:\Menu\Menu\obj\Debug\Microsoft.Data.OData\layout.resfiles
+D:\Menu\Menu\obj\Debug\Microsoft.Data.OData\layout.resfiles.intermediate
+D:\Menu\Menu\obj\Debug\Microsoft.Data.OData\Resources.resfiles
+D:\Menu\Menu\obj\Debug\Microsoft.Data.OData\Resources.resfiles.intermediate
+D:\Menu\Menu\obj\Debug\Microsoft.Data.OData\pri.resfiles
+D:\Menu\Menu\obj\Debug\Microsoft.Data.OData\pri.resfiles.intermediate
+D:\Menu\Menu\obj\Debug\Microsoft.Data.OData\priconfig.xml
+D:\Menu\Menu\obj\Debug\Microsoft.Data.OData\priconfig.xml.intermediate
+D:\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles
+D:\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+D:\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+D:\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+D:\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles
+D:\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+D:\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml
+D:\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+D:\Menu\Menu\obj\Debug\System.Spatial\layout.resfiles
+D:\Menu\Menu\obj\Debug\System.Spatial\layout.resfiles.intermediate
+D:\Menu\Menu\obj\Debug\System.Spatial\Resources.resfiles
+D:\Menu\Menu\obj\Debug\System.Spatial\Resources.resfiles.intermediate
+D:\Menu\Menu\obj\Debug\System.Spatial\pri.resfiles
+D:\Menu\Menu\obj\Debug\System.Spatial\pri.resfiles.intermediate
+D:\Menu\Menu\obj\Debug\System.Spatial\priconfig.xml
+D:\Menu\Menu\obj\Debug\System.Spatial\priconfig.xml.intermediate
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\Menu.exe.config
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\App.xbf
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\Explore.xbf
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\Login.xbf
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\MenuPage.xbf
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\PostAdd.xbf
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\QuickSearch.xbf
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\Register.xbf
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\ViewMyAdds.xbf
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\Menu.xr.xml
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\Menu.exe
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\Menu.pdb
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\resources.pri
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\AppxManifest.xml
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\GoGreen App.build.appxrecipe
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\Microsoft.Data.Edm.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\Microsoft.Data.OData.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\Newtonsoft.Json.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\System.Net.Http.Extensions.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\System.Net.Http.Primitives.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\System.Spatial.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\Microsoft.Data.Edm.xml
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\Microsoft.Data.OData.xml
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\Newtonsoft.Json.xml
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\System.Net.Http.Extensions.xml
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\System.Net.Http.Primitives.xml
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\System.Spatial.xml
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\de\Microsoft.Data.OData.resources.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\es\Microsoft.Data.OData.resources.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\it\Microsoft.Data.OData.resources.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\de\System.Spatial.resources.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\es\System.Spatial.resources.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\fr\System.Spatial.resources.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\it\System.Spatial.resources.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\ja\System.Spatial.resources.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\ko\System.Spatial.resources.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\ru\System.Spatial.resources.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\zh-Hans\System.Spatial.resources.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\zh-Hant\System.Spatial.resources.dll
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\GoGreen App.csprojResolveAssemblyReference.cache
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\App.g.i.cs
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\App.g.cs
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Explore.g.i.cs
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Explore.g.cs
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Login.g.i.cs
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Login.g.cs
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\MenuPage.g.i.cs
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\MenuPage.g.cs
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\PostAdd.g.i.cs
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\PostAdd.g.cs
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\QuickSearch.g.i.cs
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\QuickSearch.g.cs
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Register.g.i.cs
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Register.g.cs
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\ViewMyAdds.g.i.cs
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\ViewMyAdds.g.cs
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\XamlTypeInfo.g.cs
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\App.xaml
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Explore.xaml
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Login.xaml
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\MenuPage.xaml
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\PostAdd.xaml
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\QuickSearch.xaml
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Register.xaml
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\ViewMyAdds.xaml
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\App.xbf
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Explore.xbf
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Login.xbf
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\MenuPage.xbf
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\PostAdd.xbf
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\QuickSearch.xbf
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Register.xbf
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\ViewMyAdds.xbf
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\XamlSaveStateFile.xml
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Menu.exe
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Menu.pdb
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\en-US\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\de\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\es\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\fr\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\it\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\ja\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\ko\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\ru\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\zh-Hans\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\zh-Hant\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\en-US\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\de\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\es\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\fr\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\it\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\ja\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\ko\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\ru\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\zh-Hans\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\zh-Hant\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\System.Spatial\en-US\System.Spatial.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\System.Spatial\de\System.Spatial.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\System.Spatial\es\System.Spatial.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\System.Spatial\fr\System.Spatial.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\System.Spatial\it\System.Spatial.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\System.Spatial\ja\System.Spatial.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\System.Spatial\ko\System.Spatial.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\System.Spatial\ru\System.Spatial.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\System.Spatial\zh-Hans\System.Spatial.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\System.Spatial\zh-Hant\System.Spatial.resw
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\GoGreen App.csproj.GenerateResource.Cache
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm.pri
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\qualifiers.txt
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Microsoft.Data.OData.pri
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\qualifiers.txt
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile.pri
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\System.Spatial.pri
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\System.Spatial\qualifiers.txt
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\priconfig.xml
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\priconfig.xml.intermediate
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\layout.resfiles
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\layout.resfiles.intermediate
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\resources.resfiles
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\resources.resfiles.intermediate
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\pri.resfiles
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\pri.resfiles.intermediate
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\qualifiers.txt
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\qualifiers.txt.intermediate
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\ProjectArchitectures.txt
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\ViewAdd.xbf
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\ViewAdd.g.i.cs
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\ViewAdd.g.cs
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\ViewAdd.xaml
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\ViewAdd.xbf
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\CloseToYou.g.i.cs
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\CloseToYou.g.cs
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\CloseToYou.xaml
+F:\GoGreen Stuff\1st backup\Menu\Menu\obj\Debug\CloseToYou.xbf
+F:\GoGreen Stuff\1st backup\Menu\Menu\bin\Debug\CloseToYou.xbf
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\App.xbf
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\CloseToYou.xbf
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\Explore.xbf
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\Login.xbf
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\MenuPage.xbf
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\PostAdd.xbf
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\QuickSearch.xbf
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\Register.xbf
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\ViewAdd.xbf
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\ViewMyAdds.xbf
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\Menu.xr.xml
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\resources.pri
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\AppxManifest.xml
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\GoGreen App.build.appxrecipe
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\System.Spatial.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\Newtonsoft.Json.xml
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\System.Spatial.xml
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\madus\Downloads\Menu\Menu\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\GoGreen App.csprojResolveAssemblyReference.cache
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\App.g.i.cs
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\App.g.cs
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\CloseToYou.g.i.cs
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\CloseToYou.g.cs
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Explore.g.i.cs
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Explore.g.cs
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Login.g.i.cs
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Login.g.cs
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\MenuPage.g.i.cs
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\MenuPage.g.cs
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\PostAdd.g.i.cs
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\PostAdd.g.cs
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\QuickSearch.g.i.cs
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\QuickSearch.g.cs
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Register.g.i.cs
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Register.g.cs
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\ViewAdd.g.i.cs
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\ViewAdd.g.cs
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\ViewMyAdds.g.i.cs
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\ViewMyAdds.g.cs
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\App.xaml
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\CloseToYou.xaml
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Explore.xaml
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Login.xaml
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\MenuPage.xaml
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\PostAdd.xaml
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\QuickSearch.xaml
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Register.xaml
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\ViewAdd.xaml
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\ViewMyAdds.xaml
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\App.xbf
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\CloseToYou.xbf
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Explore.xbf
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Login.xbf
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\MenuPage.xbf
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\PostAdd.xbf
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\QuickSearch.xbf
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Register.xbf
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\ViewAdd.xbf
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\ViewMyAdds.xbf
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\XamlSaveStateFile.xml
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Menu.pdb
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.Edm\en-US\Microsoft.Data.Edm.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.Edm\de\Microsoft.Data.Edm.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.Edm\es\Microsoft.Data.Edm.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.Edm\fr\Microsoft.Data.Edm.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.Edm\it\Microsoft.Data.Edm.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.Edm\ja\Microsoft.Data.Edm.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.Edm\ko\Microsoft.Data.Edm.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.Edm\ru\Microsoft.Data.Edm.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.Edm\zh-Hans\Microsoft.Data.Edm.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.Edm\zh-Hant\Microsoft.Data.Edm.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.OData\en-US\Microsoft.Data.OData.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.OData\de\Microsoft.Data.OData.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.OData\es\Microsoft.Data.OData.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.OData\fr\Microsoft.Data.OData.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.OData\it\Microsoft.Data.OData.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.OData\ja\Microsoft.Data.OData.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.OData\ko\Microsoft.Data.OData.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.OData\ru\Microsoft.Data.OData.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.OData\zh-Hans\Microsoft.Data.OData.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.OData\zh-Hant\Microsoft.Data.OData.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\System.Spatial\en-US\System.Spatial.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\System.Spatial\de\System.Spatial.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\System.Spatial\es\System.Spatial.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\System.Spatial\fr\System.Spatial.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\System.Spatial\it\System.Spatial.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\System.Spatial\ja\System.Spatial.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\System.Spatial\ko\System.Spatial.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\System.Spatial\ru\System.Spatial.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\System.Spatial\zh-Hans\System.Spatial.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\System.Spatial\zh-Hant\System.Spatial.resw
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\GoGreen App.csproj.GenerateResource.Cache
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.Edm.pri
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.Edm\qualifiers.txt
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.OData.pri
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.OData\qualifiers.txt
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\System.Spatial.pri
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\System.Spatial\qualifiers.txt
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\priconfig.xml
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\priconfig.xml.intermediate
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\layout.resfiles
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\layout.resfiles.intermediate
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\resources.resfiles
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\resources.resfiles.intermediate
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\pri.resfiles
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\pri.resfiles.intermediate
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\qualifiers.txt
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\qualifiers.txt.intermediate
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\ProjectArchitectures.txt
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.Edm\layout.resfiles
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.Edm\layout.resfiles.intermediate
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.Edm\Resources.resfiles
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.Edm\Resources.resfiles.intermediate
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.Edm\pri.resfiles
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.Edm\pri.resfiles.intermediate
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.Edm\priconfig.xml
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.Edm\priconfig.xml.intermediate
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.OData\layout.resfiles
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.OData\layout.resfiles.intermediate
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.OData\Resources.resfiles
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.OData\Resources.resfiles.intermediate
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.OData\pri.resfiles
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.OData\pri.resfiles.intermediate
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.OData\priconfig.xml
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.Data.OData\priconfig.xml.intermediate
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\System.Spatial\layout.resfiles
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\System.Spatial\layout.resfiles.intermediate
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\System.Spatial\Resources.resfiles
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\System.Spatial\Resources.resfiles.intermediate
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\System.Spatial\pri.resfiles
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\System.Spatial\pri.resfiles.intermediate
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\System.Spatial\priconfig.xml
+C:\Users\madus\Downloads\Menu\Menu\obj\Debug\System.Spatial\priconfig.xml.intermediate
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\Menu.exe.config
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\App.xbf
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\CloseToYou.xbf
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\Explore.xbf
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\Login.xbf
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\MenuPage.xbf
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\PostAdd.xbf
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\QuickSearch.xbf
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\Register.xbf
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\ViewAdd.xbf
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\ViewMyAdds.xbf
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\Menu.xr.xml
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\Menu.exe
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\Menu.pdb
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\resources.pri
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\AppxManifest.xml
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\GoGreen App.build.appxrecipe
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\Microsoft.Data.Edm.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\Microsoft.Data.OData.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\Newtonsoft.Json.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\System.Net.Http.Extensions.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\System.Net.Http.Primitives.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\System.Spatial.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\Microsoft.Data.Edm.xml
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\Microsoft.Data.OData.xml
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\Newtonsoft.Json.xml
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\System.Net.Http.Extensions.xml
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\System.Net.Http.Primitives.xml
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\System.Spatial.xml
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\de\Microsoft.Data.OData.resources.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\es\Microsoft.Data.OData.resources.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\it\Microsoft.Data.OData.resources.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\de\System.Spatial.resources.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\es\System.Spatial.resources.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\fr\System.Spatial.resources.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\it\System.Spatial.resources.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\ja\System.Spatial.resources.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\ko\System.Spatial.resources.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\ru\System.Spatial.resources.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\zh-Hans\System.Spatial.resources.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\zh-Hant\System.Spatial.resources.dll
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\GoGreen App.csprojResolveAssemblyReference.cache
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\App.g.i.cs
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\App.g.cs
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\CloseToYou.g.i.cs
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\CloseToYou.g.cs
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Explore.g.i.cs
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Explore.g.cs
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Login.g.i.cs
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Login.g.cs
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\MenuPage.g.i.cs
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\MenuPage.g.cs
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\PostAdd.g.i.cs
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\PostAdd.g.cs
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\QuickSearch.g.i.cs
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\QuickSearch.g.cs
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Register.g.i.cs
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Register.g.cs
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\ViewAdd.g.i.cs
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\ViewAdd.g.cs
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\ViewMyAdds.g.i.cs
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\ViewMyAdds.g.cs
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\XamlTypeInfo.g.cs
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\App.xaml
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\CloseToYou.xaml
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Explore.xaml
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Login.xaml
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\MenuPage.xaml
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\PostAdd.xaml
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\QuickSearch.xaml
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Register.xaml
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\ViewAdd.xaml
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\ViewMyAdds.xaml
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\App.xbf
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\CloseToYou.xbf
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Explore.xbf
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Login.xbf
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\MenuPage.xbf
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\PostAdd.xbf
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\QuickSearch.xbf
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Register.xbf
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\ViewAdd.xbf
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\ViewMyAdds.xbf
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\XamlSaveStateFile.xml
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Menu.exe
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Menu.pdb
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\en-US\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\de\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\es\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\fr\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\it\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\ja\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\ko\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\ru\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\zh-Hans\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\zh-Hant\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\en-US\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\de\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\es\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\fr\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\it\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\ja\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\ko\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\ru\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\zh-Hans\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\zh-Hant\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\System.Spatial\en-US\System.Spatial.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\System.Spatial\de\System.Spatial.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\System.Spatial\es\System.Spatial.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\System.Spatial\fr\System.Spatial.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\System.Spatial\it\System.Spatial.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\System.Spatial\ja\System.Spatial.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\System.Spatial\ko\System.Spatial.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\System.Spatial\ru\System.Spatial.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\System.Spatial\zh-Hans\System.Spatial.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\System.Spatial\zh-Hant\System.Spatial.resw
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\GoGreen App.csproj.GenerateResource.Cache
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm.pri
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\qualifiers.txt
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData.pri
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\qualifiers.txt
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile.pri
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\System.Spatial.pri
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\System.Spatial\qualifiers.txt
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\priconfig.xml
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\priconfig.xml.intermediate
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\layout.resfiles
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\layout.resfiles.intermediate
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\resources.resfiles
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\resources.resfiles.intermediate
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\pri.resfiles
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\pri.resfiles.intermediate
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\qualifiers.txt
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\qualifiers.txt.intermediate
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\ProjectArchitectures.txt
+F:\GoGreen Stuff\2nd backup\Menu\Menu\bin\Debug\MyAdd.xbf
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\MyAdd.g.i.cs
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\MyAdd.g.cs
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\MyAdd.xaml
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\MyAdd.xbf
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\layout.resfiles
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\layout.resfiles.intermediate
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\Resources.resfiles
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\Resources.resfiles.intermediate
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\pri.resfiles
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\pri.resfiles.intermediate
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\priconfig.xml
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\priconfig.xml.intermediate
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\layout.resfiles
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\layout.resfiles.intermediate
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\Resources.resfiles
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\Resources.resfiles.intermediate
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\pri.resfiles
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\pri.resfiles.intermediate
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\priconfig.xml
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\priconfig.xml.intermediate
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\System.Spatial\layout.resfiles
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\System.Spatial\layout.resfiles.intermediate
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\System.Spatial\Resources.resfiles
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\System.Spatial\Resources.resfiles.intermediate
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\System.Spatial\pri.resfiles
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\System.Spatial\pri.resfiles.intermediate
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\System.Spatial\priconfig.xml
+F:\GoGreen Stuff\2nd backup\Menu\Menu\obj\Debug\System.Spatial\priconfig.xml.intermediate
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\Menu.exe.config
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\App.xbf
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\CloseToYou.xbf
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\Explore.xbf
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\Login.xbf
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\MenuPage.xbf
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\MyAdd.xbf
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\PostAdd.xbf
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\QuickSearch.xbf
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\Register.xbf
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\ViewAdd.xbf
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\ViewMyAdds.xbf
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\Menu.xr.xml
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\Menu.exe
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\Menu.pdb
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\resources.pri
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\AppxManifest.xml
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\GoGreen App.build.appxrecipe
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\Microsoft.Data.Edm.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\Microsoft.Data.OData.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\Newtonsoft.Json.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\System.Net.Http.Extensions.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\System.Net.Http.Primitives.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\System.Spatial.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\Microsoft.Data.Edm.xml
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\Microsoft.Data.OData.xml
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\Newtonsoft.Json.xml
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\System.Net.Http.Extensions.xml
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\System.Net.Http.Primitives.xml
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\System.Spatial.xml
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\de\Microsoft.Data.OData.resources.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\es\Microsoft.Data.OData.resources.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\it\Microsoft.Data.OData.resources.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\de\System.Spatial.resources.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\es\System.Spatial.resources.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\fr\System.Spatial.resources.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\it\System.Spatial.resources.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\ja\System.Spatial.resources.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\ko\System.Spatial.resources.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\ru\System.Spatial.resources.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\zh-Hans\System.Spatial.resources.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\bin\Debug\zh-Hant\System.Spatial.resources.dll
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\GoGreen App.csprojResolveAssemblyReference.cache
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\App.g.i.cs
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\App.g.cs
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\CloseToYou.g.i.cs
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\CloseToYou.g.cs
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Explore.g.i.cs
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Explore.g.cs
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Login.g.i.cs
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Login.g.cs
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\MenuPage.g.i.cs
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\MenuPage.g.cs
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\MyAdd.g.i.cs
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\MyAdd.g.cs
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\PostAdd.g.i.cs
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\PostAdd.g.cs
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\QuickSearch.g.i.cs
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\QuickSearch.g.cs
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Register.g.i.cs
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Register.g.cs
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\ViewAdd.g.i.cs
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\ViewAdd.g.cs
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\ViewMyAdds.g.i.cs
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\ViewMyAdds.g.cs
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\XamlTypeInfo.g.cs
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\App.xaml
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\CloseToYou.xaml
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Explore.xaml
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Login.xaml
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\MenuPage.xaml
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\MyAdd.xaml
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\QuickSearch.xaml
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Register.xaml
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\ViewAdd.xaml
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\ViewMyAdds.xaml
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\App.xbf
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\CloseToYou.xbf
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Explore.xbf
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Login.xbf
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\MenuPage.xbf
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\MyAdd.xbf
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\QuickSearch.xbf
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Register.xbf
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\ViewAdd.xbf
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\ViewMyAdds.xbf
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\XamlSaveStateFile.xml
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\PostAdd.xaml
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\PostAdd.xbf
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Menu.exe
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Menu.pdb
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\en-US\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\de\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\es\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\fr\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\it\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\ja\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\ko\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\ru\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\zh-Hans\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\zh-Hant\Microsoft.Data.Edm.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\en-US\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\de\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\es\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\fr\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\it\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\ja\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\ko\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\ru\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\zh-Hans\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\zh-Hant\Microsoft.Data.OData.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\System.Spatial\en-US\System.Spatial.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\System.Spatial\de\System.Spatial.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\System.Spatial\es\System.Spatial.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\System.Spatial\fr\System.Spatial.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\System.Spatial\it\System.Spatial.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\System.Spatial\ja\System.Spatial.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\System.Spatial\ko\System.Spatial.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\System.Spatial\ru\System.Spatial.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\System.Spatial\zh-Hans\System.Spatial.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\System.Spatial\zh-Hant\System.Spatial.resw
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\GoGreen App.csproj.GenerateResource.Cache
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm.pri
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\qualifiers.txt
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData.pri
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\qualifiers.txt
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile.pri
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\System.Spatial.pri
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\System.Spatial\qualifiers.txt
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\priconfig.xml
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\priconfig.xml.intermediate
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\layout.resfiles
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\layout.resfiles.intermediate
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\resources.resfiles
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\resources.resfiles.intermediate
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\pri.resfiles
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\pri.resfiles.intermediate
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\qualifiers.txt
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\qualifiers.txt.intermediate
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\ProjectArchitectures.txt
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\layout.resfiles
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\layout.resfiles.intermediate
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\Resources.resfiles
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\Resources.resfiles.intermediate
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\pri.resfiles
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\pri.resfiles.intermediate
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\priconfig.xml
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\priconfig.xml.intermediate
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\layout.resfiles
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\layout.resfiles.intermediate
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\Resources.resfiles
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\Resources.resfiles.intermediate
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\pri.resfiles
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\pri.resfiles.intermediate
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\priconfig.xml
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\priconfig.xml.intermediate
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\System.Spatial\layout.resfiles
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\System.Spatial\layout.resfiles.intermediate
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\System.Spatial\Resources.resfiles
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\System.Spatial\Resources.resfiles.intermediate
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\System.Spatial\pri.resfiles
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\System.Spatial\pri.resfiles.intermediate
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\System.Spatial\priconfig.xml
+F:\GoGreen Stuff\3rd backup\Menu\Menu\obj\Debug\System.Spatial\priconfig.xml.intermediate
+F:\3rd backup\Menu\Menu\bin\Debug\Menu.exe.config
+F:\3rd backup\Menu\Menu\bin\Debug\App.xbf
+F:\3rd backup\Menu\Menu\bin\Debug\CloseToYou.xbf
+F:\3rd backup\Menu\Menu\bin\Debug\Explore.xbf
+F:\3rd backup\Menu\Menu\bin\Debug\Login.xbf
+F:\3rd backup\Menu\Menu\bin\Debug\MenuPage.xbf
+F:\3rd backup\Menu\Menu\bin\Debug\MyAdd.xbf
+F:\3rd backup\Menu\Menu\bin\Debug\PostAdd.xbf
+F:\3rd backup\Menu\Menu\bin\Debug\QuickSearch.xbf
+F:\3rd backup\Menu\Menu\bin\Debug\Register.xbf
+F:\3rd backup\Menu\Menu\bin\Debug\ViewAdd.xbf
+F:\3rd backup\Menu\Menu\bin\Debug\ViewMyAdds.xbf
+F:\3rd backup\Menu\Menu\bin\Debug\Menu.xr.xml
+F:\3rd backup\Menu\Menu\bin\Debug\Menu.exe
+F:\3rd backup\Menu\Menu\bin\Debug\Menu.pdb
+F:\3rd backup\Menu\Menu\bin\Debug\resources.pri
+F:\3rd backup\Menu\Menu\bin\Debug\AppxManifest.xml
+F:\3rd backup\Menu\Menu\bin\Debug\GoGreen App.build.appxrecipe
+F:\3rd backup\Menu\Menu\bin\Debug\Microsoft.Data.Edm.dll
+F:\3rd backup\Menu\Menu\bin\Debug\Microsoft.Data.OData.dll
+F:\3rd backup\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+F:\3rd backup\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+F:\3rd backup\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+F:\3rd backup\Menu\Menu\bin\Debug\Newtonsoft.Json.dll
+F:\3rd backup\Menu\Menu\bin\Debug\System.Net.Http.Extensions.dll
+F:\3rd backup\Menu\Menu\bin\Debug\System.Net.Http.Primitives.dll
+F:\3rd backup\Menu\Menu\bin\Debug\System.Spatial.dll
+F:\3rd backup\Menu\Menu\bin\Debug\Microsoft.Data.Edm.xml
+F:\3rd backup\Menu\Menu\bin\Debug\Microsoft.Data.OData.xml
+F:\3rd backup\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+F:\3rd backup\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+F:\3rd backup\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+F:\3rd backup\Menu\Menu\bin\Debug\Newtonsoft.Json.xml
+F:\3rd backup\Menu\Menu\bin\Debug\System.Net.Http.Extensions.xml
+F:\3rd backup\Menu\Menu\bin\Debug\System.Net.Http.Primitives.xml
+F:\3rd backup\Menu\Menu\bin\Debug\System.Spatial.xml
+F:\3rd backup\Menu\Menu\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+F:\3rd backup\Menu\Menu\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+F:\3rd backup\Menu\Menu\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+F:\3rd backup\Menu\Menu\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+F:\3rd backup\Menu\Menu\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+F:\3rd backup\Menu\Menu\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+F:\3rd backup\Menu\Menu\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+F:\3rd backup\Menu\Menu\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\3rd backup\Menu\Menu\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\3rd backup\Menu\Menu\bin\Debug\de\Microsoft.Data.OData.resources.dll
+F:\3rd backup\Menu\Menu\bin\Debug\es\Microsoft.Data.OData.resources.dll
+F:\3rd backup\Menu\Menu\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+F:\3rd backup\Menu\Menu\bin\Debug\it\Microsoft.Data.OData.resources.dll
+F:\3rd backup\Menu\Menu\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+F:\3rd backup\Menu\Menu\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+F:\3rd backup\Menu\Menu\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+F:\3rd backup\Menu\Menu\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\3rd backup\Menu\Menu\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\3rd backup\Menu\Menu\bin\Debug\de\System.Spatial.resources.dll
+F:\3rd backup\Menu\Menu\bin\Debug\es\System.Spatial.resources.dll
+F:\3rd backup\Menu\Menu\bin\Debug\fr\System.Spatial.resources.dll
+F:\3rd backup\Menu\Menu\bin\Debug\it\System.Spatial.resources.dll
+F:\3rd backup\Menu\Menu\bin\Debug\ja\System.Spatial.resources.dll
+F:\3rd backup\Menu\Menu\bin\Debug\ko\System.Spatial.resources.dll
+F:\3rd backup\Menu\Menu\bin\Debug\ru\System.Spatial.resources.dll
+F:\3rd backup\Menu\Menu\bin\Debug\zh-Hans\System.Spatial.resources.dll
+F:\3rd backup\Menu\Menu\bin\Debug\zh-Hant\System.Spatial.resources.dll
+F:\3rd backup\Menu\Menu\obj\Debug\GoGreen App.csprojResolveAssemblyReference.cache
+F:\3rd backup\Menu\Menu\obj\Debug\App.g.i.cs
+F:\3rd backup\Menu\Menu\obj\Debug\App.g.cs
+F:\3rd backup\Menu\Menu\obj\Debug\CloseToYou.g.i.cs
+F:\3rd backup\Menu\Menu\obj\Debug\CloseToYou.g.cs
+F:\3rd backup\Menu\Menu\obj\Debug\Explore.g.i.cs
+F:\3rd backup\Menu\Menu\obj\Debug\Explore.g.cs
+F:\3rd backup\Menu\Menu\obj\Debug\Login.g.i.cs
+F:\3rd backup\Menu\Menu\obj\Debug\Login.g.cs
+F:\3rd backup\Menu\Menu\obj\Debug\MenuPage.g.i.cs
+F:\3rd backup\Menu\Menu\obj\Debug\MenuPage.g.cs
+F:\3rd backup\Menu\Menu\obj\Debug\MyAdd.g.i.cs
+F:\3rd backup\Menu\Menu\obj\Debug\MyAdd.g.cs
+F:\3rd backup\Menu\Menu\obj\Debug\PostAdd.g.i.cs
+F:\3rd backup\Menu\Menu\obj\Debug\PostAdd.g.cs
+F:\3rd backup\Menu\Menu\obj\Debug\QuickSearch.g.i.cs
+F:\3rd backup\Menu\Menu\obj\Debug\QuickSearch.g.cs
+F:\3rd backup\Menu\Menu\obj\Debug\Register.g.i.cs
+F:\3rd backup\Menu\Menu\obj\Debug\Register.g.cs
+F:\3rd backup\Menu\Menu\obj\Debug\ViewAdd.g.i.cs
+F:\3rd backup\Menu\Menu\obj\Debug\ViewAdd.g.cs
+F:\3rd backup\Menu\Menu\obj\Debug\ViewMyAdds.g.i.cs
+F:\3rd backup\Menu\Menu\obj\Debug\ViewMyAdds.g.cs
+F:\3rd backup\Menu\Menu\obj\Debug\XamlTypeInfo.g.cs
+F:\3rd backup\Menu\Menu\obj\Debug\App.xaml
+F:\3rd backup\Menu\Menu\obj\Debug\CloseToYou.xaml
+F:\3rd backup\Menu\Menu\obj\Debug\Explore.xaml
+F:\3rd backup\Menu\Menu\obj\Debug\Login.xaml
+F:\3rd backup\Menu\Menu\obj\Debug\MenuPage.xaml
+F:\3rd backup\Menu\Menu\obj\Debug\MyAdd.xaml
+F:\3rd backup\Menu\Menu\obj\Debug\PostAdd.xaml
+F:\3rd backup\Menu\Menu\obj\Debug\QuickSearch.xaml
+F:\3rd backup\Menu\Menu\obj\Debug\Register.xaml
+F:\3rd backup\Menu\Menu\obj\Debug\ViewAdd.xaml
+F:\3rd backup\Menu\Menu\obj\Debug\ViewMyAdds.xaml
+F:\3rd backup\Menu\Menu\obj\Debug\App.xbf
+F:\3rd backup\Menu\Menu\obj\Debug\CloseToYou.xbf
+F:\3rd backup\Menu\Menu\obj\Debug\Explore.xbf
+F:\3rd backup\Menu\Menu\obj\Debug\Login.xbf
+F:\3rd backup\Menu\Menu\obj\Debug\MenuPage.xbf
+F:\3rd backup\Menu\Menu\obj\Debug\MyAdd.xbf
+F:\3rd backup\Menu\Menu\obj\Debug\PostAdd.xbf
+F:\3rd backup\Menu\Menu\obj\Debug\QuickSearch.xbf
+F:\3rd backup\Menu\Menu\obj\Debug\Register.xbf
+F:\3rd backup\Menu\Menu\obj\Debug\ViewAdd.xbf
+F:\3rd backup\Menu\Menu\obj\Debug\ViewMyAdds.xbf
+F:\3rd backup\Menu\Menu\obj\Debug\XamlSaveStateFile.xml
+F:\3rd backup\Menu\Menu\obj\Debug\Menu.exe
+F:\3rd backup\Menu\Menu\obj\Debug\Menu.pdb
+F:\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\en-US\Microsoft.Data.Edm.resw
+F:\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\de\Microsoft.Data.Edm.resw
+F:\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\es\Microsoft.Data.Edm.resw
+F:\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\fr\Microsoft.Data.Edm.resw
+F:\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\it\Microsoft.Data.Edm.resw
+F:\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\ja\Microsoft.Data.Edm.resw
+F:\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\ko\Microsoft.Data.Edm.resw
+F:\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\ru\Microsoft.Data.Edm.resw
+F:\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\zh-Hans\Microsoft.Data.Edm.resw
+F:\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\zh-Hant\Microsoft.Data.Edm.resw
+F:\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\en-US\Microsoft.Data.OData.resw
+F:\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\de\Microsoft.Data.OData.resw
+F:\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\es\Microsoft.Data.OData.resw
+F:\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\fr\Microsoft.Data.OData.resw
+F:\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\it\Microsoft.Data.OData.resw
+F:\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\ja\Microsoft.Data.OData.resw
+F:\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\ko\Microsoft.Data.OData.resw
+F:\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\ru\Microsoft.Data.OData.resw
+F:\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\zh-Hans\Microsoft.Data.OData.resw
+F:\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\zh-Hant\Microsoft.Data.OData.resw
+F:\3rd backup\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+F:\3rd backup\Menu\Menu\obj\Debug\System.Spatial\en-US\System.Spatial.resw
+F:\3rd backup\Menu\Menu\obj\Debug\System.Spatial\de\System.Spatial.resw
+F:\3rd backup\Menu\Menu\obj\Debug\System.Spatial\es\System.Spatial.resw
+F:\3rd backup\Menu\Menu\obj\Debug\System.Spatial\fr\System.Spatial.resw
+F:\3rd backup\Menu\Menu\obj\Debug\System.Spatial\it\System.Spatial.resw
+F:\3rd backup\Menu\Menu\obj\Debug\System.Spatial\ja\System.Spatial.resw
+F:\3rd backup\Menu\Menu\obj\Debug\System.Spatial\ko\System.Spatial.resw
+F:\3rd backup\Menu\Menu\obj\Debug\System.Spatial\ru\System.Spatial.resw
+F:\3rd backup\Menu\Menu\obj\Debug\System.Spatial\zh-Hans\System.Spatial.resw
+F:\3rd backup\Menu\Menu\obj\Debug\System.Spatial\zh-Hant\System.Spatial.resw
+F:\3rd backup\Menu\Menu\obj\Debug\GoGreen App.csproj.GenerateResource.Cache
+F:\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm.pri
+F:\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.Edm\qualifiers.txt
+F:\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData.pri
+F:\3rd backup\Menu\Menu\obj\Debug\Microsoft.Data.OData\qualifiers.txt
+F:\3rd backup\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile.pri
+F:\3rd backup\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+F:\3rd backup\Menu\Menu\obj\Debug\System.Spatial.pri
+F:\3rd backup\Menu\Menu\obj\Debug\System.Spatial\qualifiers.txt
+F:\3rd backup\Menu\Menu\obj\Debug\priconfig.xml
+F:\3rd backup\Menu\Menu\obj\Debug\priconfig.xml.intermediate
+F:\3rd backup\Menu\Menu\obj\Debug\layout.resfiles
+F:\3rd backup\Menu\Menu\obj\Debug\layout.resfiles.intermediate
+F:\3rd backup\Menu\Menu\obj\Debug\resources.resfiles
+F:\3rd backup\Menu\Menu\obj\Debug\resources.resfiles.intermediate
+F:\3rd backup\Menu\Menu\obj\Debug\pri.resfiles
+F:\3rd backup\Menu\Menu\obj\Debug\pri.resfiles.intermediate
+F:\3rd backup\Menu\Menu\obj\Debug\qualifiers.txt
+F:\3rd backup\Menu\Menu\obj\Debug\qualifiers.txt.intermediate
+F:\3rd backup\Menu\Menu\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\3rd backup\Menu\Menu\obj\Debug\ProjectArchitectures.txt
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\App.g.i.cs
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\App.g.cs
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\CloseToYou.g.i.cs
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\CloseToYou.g.cs
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\Explore.g.i.cs
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\Explore.g.cs
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\Login.g.i.cs
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\Login.g.cs
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\MenuPage.g.i.cs
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\MenuPage.g.cs
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\MyAdd.g.i.cs
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\MyAdd.g.cs
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\PostAdd.g.i.cs
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\PostAdd.g.cs
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\QuickSearch.g.i.cs
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\QuickSearch.g.cs
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\Register.g.i.cs
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\Register.g.cs
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\ViewAdd.g.i.cs
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\ViewAdd.g.cs
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\ViewMyAdds.g.i.cs
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\ViewMyAdds.g.cs
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\App.xaml
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\CloseToYou.xaml
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\Explore.xaml
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\Login.xaml
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\MenuPage.xaml
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\MyAdd.xaml
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\PostAdd.xaml
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\QuickSearch.xaml
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\Register.xaml
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\ViewAdd.xaml
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\ViewMyAdds.xaml
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\App.xbf
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\CloseToYou.xbf
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\Explore.xbf
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\Login.xbf
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\MenuPage.xbf
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\MyAdd.xbf
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\PostAdd.xbf
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\QuickSearch.xbf
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\Register.xbf
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\ViewAdd.xbf
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\ViewMyAdds.xbf
+C:\Users\achirafernando\Desktop\Menu\Menu\obj\Debug\XamlSaveStateFile.xml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\App.xbf
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\CloseToYou.xbf
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\Explore.xbf
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\Login.xbf
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\MenuPage.xbf
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\MyAdd.xbf
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\PostAdd.xbf
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\QuickSearch.xbf
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\Register.xbf
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\ViewAdd.xbf
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\ViewMyAdds.xbf
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\Menu.xr.xml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\resources.pri
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\AppxManifest.xml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\GoGreen App.build.appxrecipe
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\System.Spatial.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\Newtonsoft.Json.xml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\System.Spatial.xml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\GoGreen App.csprojResolveAssemblyReference.cache
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\App.g.i.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\App.g.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\CloseToYou.g.i.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\CloseToYou.g.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Explore.g.i.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Explore.g.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Login.g.i.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Login.g.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\MenuPage.g.i.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\MenuPage.g.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\MyAdd.g.i.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\MyAdd.g.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\PostAdd.g.i.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\PostAdd.g.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\QuickSearch.g.i.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\QuickSearch.g.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Register.g.i.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Register.g.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\ViewAdd.g.i.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\ViewAdd.g.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\ViewMyAdds.g.i.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\ViewMyAdds.g.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\App.xaml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\CloseToYou.xaml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Explore.xaml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Login.xaml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\MenuPage.xaml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\MyAdd.xaml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\PostAdd.xaml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\QuickSearch.xaml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Register.xaml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\ViewAdd.xaml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\ViewMyAdds.xaml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\App.xbf
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\CloseToYou.xbf
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Explore.xbf
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Login.xbf
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\MenuPage.xbf
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\MyAdd.xbf
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\PostAdd.xbf
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\QuickSearch.xbf
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Register.xbf
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\ViewAdd.xbf
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\ViewMyAdds.xbf
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\XamlSaveStateFile.xml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Menu.pdb
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.Edm\en-US\Microsoft.Data.Edm.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.Edm\de\Microsoft.Data.Edm.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.Edm\es\Microsoft.Data.Edm.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.Edm\fr\Microsoft.Data.Edm.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.Edm\it\Microsoft.Data.Edm.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.Edm\ja\Microsoft.Data.Edm.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.Edm\ko\Microsoft.Data.Edm.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.Edm\ru\Microsoft.Data.Edm.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.Edm\zh-Hans\Microsoft.Data.Edm.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.Edm\zh-Hant\Microsoft.Data.Edm.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.OData\en-US\Microsoft.Data.OData.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.OData\de\Microsoft.Data.OData.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.OData\es\Microsoft.Data.OData.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.OData\fr\Microsoft.Data.OData.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.OData\it\Microsoft.Data.OData.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.OData\ja\Microsoft.Data.OData.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.OData\ko\Microsoft.Data.OData.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.OData\ru\Microsoft.Data.OData.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.OData\zh-Hans\Microsoft.Data.OData.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.OData\zh-Hant\Microsoft.Data.OData.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\System.Spatial\en-US\System.Spatial.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\System.Spatial\de\System.Spatial.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\System.Spatial\es\System.Spatial.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\System.Spatial\fr\System.Spatial.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\System.Spatial\it\System.Spatial.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\System.Spatial\ja\System.Spatial.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\System.Spatial\ko\System.Spatial.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\System.Spatial\ru\System.Spatial.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\System.Spatial\zh-Hans\System.Spatial.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\System.Spatial\zh-Hant\System.Spatial.resw
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\GoGreen App.csproj.GenerateResource.Cache
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.Edm\layout.resfiles
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.Edm\layout.resfiles.intermediate
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.Edm\Resources.resfiles
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.Edm\Resources.resfiles.intermediate
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.Edm\pri.resfiles
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.Edm\pri.resfiles.intermediate
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.Edm\priconfig.xml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.Edm\priconfig.xml.intermediate
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.Edm.pri
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.Edm\qualifiers.txt
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.OData\layout.resfiles
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.OData\layout.resfiles.intermediate
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.OData\Resources.resfiles
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.OData\Resources.resfiles.intermediate
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.OData\pri.resfiles
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.OData\pri.resfiles.intermediate
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.OData\priconfig.xml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.OData\priconfig.xml.intermediate
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.OData.pri
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.Data.OData\qualifiers.txt
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\System.Spatial\layout.resfiles
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\System.Spatial\layout.resfiles.intermediate
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\System.Spatial\Resources.resfiles
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\System.Spatial\Resources.resfiles.intermediate
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\System.Spatial\pri.resfiles
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\System.Spatial\pri.resfiles.intermediate
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\System.Spatial\priconfig.xml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\System.Spatial\priconfig.xml.intermediate
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\System.Spatial.pri
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\System.Spatial\qualifiers.txt
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\priconfig.xml
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\priconfig.xml.intermediate
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\layout.resfiles
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\layout.resfiles.intermediate
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\resources.resfiles
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\resources.resfiles.intermediate
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\pri.resfiles
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\pri.resfiles.intermediate
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\qualifiers.txt
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\qualifiers.txt.intermediate
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\achirafernando\Documents\Visual Studio 2015\Projects\GoGreen\Menu\Menu\obj\Debug\ProjectArchitectures.txt

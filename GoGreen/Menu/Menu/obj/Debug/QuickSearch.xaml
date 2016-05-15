@@ -1,0 +1,37 @@
+﻿<Page
+    x:Class="Menu.QuickSearch"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Menu"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="White">
+        <Rectangle Fill="#1B5E20" Height="66" Margin="0,-1,0,0" Stroke="#1B5E20" VerticalAlignment="Top"/>
+        <TextBlock x:Name="quickSearchLabel" Margin="27,11,108,0" TextWrapping="Wrap" Text="Quick Search" VerticalAlignment="Top" Foreground="White" FontSize="37.333"/>
+        <TextBox x:Name="txtTitle" Margin="10,89,172,0" TextWrapping="Wrap" PlaceholderText="Enter The Title" VerticalAlignment="Top" BorderBrush="#1B5E20"/>
+        <Button x:ConnectionId='1' x:Name="searchBut" Content="Search" HorizontalAlignment="Stretch" Margin="236,80,11,0" VerticalAlignment="Top" Background="#1B5E20" FontSize="24"                        />
+
+        <ListView Name="ListItems" Margin="21,157,18,24">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Border BorderBrush="#1B5E20" BorderThickness="2" HorizontalAlignment="Stretch" Width="358" Margin="0,10,0,0" >
+                        <StackPanel x:ConnectionId='2' Orientation="Horizontal"                          >
+
+                            <Image x:ConnectionId='3' Source="{Binding PictureName}" Height="100" Width="100"                          />
+                            <TextBlock x:ConnectionId='4' Text="{Binding Title}" Foreground="Black" FontSize="17"                           />
+
+                        </StackPanel>
+                    </Border>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+
+        </ListView>
+        <ProgressRing Name ="ProgressRing" HorizontalAlignment="Left" Margin="1,65,0,0" VerticalAlignment="Top" Height="575" Width="399"/>
+
+
+    </Grid>
+</Page>
+

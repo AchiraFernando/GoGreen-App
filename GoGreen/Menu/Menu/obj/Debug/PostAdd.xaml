@@ -1,0 +1,55 @@
+﻿<Page
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Menu"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:Maps="using:Windows.UI.Xaml.Controls.Maps"
+    x:Class="Menu.PostAdd"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <ScrollViewer HorizontalAlignment="Left" Height="640" VerticalAlignment="Top" Width="399.999969482422">
+        <Grid Background="White" Height="1370">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="676*"/>
+                <RowDefinition Height="9*"/>
+            </Grid.RowDefinitions>
+            <Rectangle Fill="#1B5E20" Height="66" Margin="0,-1,0,0" Stroke="#1B5E20" VerticalAlignment="Top"/>
+            <TextBlock x:Name="txtPostAddLabel" Margin="27,11,178,0" TextWrapping="Wrap" Text="Post Add" VerticalAlignment="Top" Foreground="White" FontSize="37.333"/>
+            <TextBlock x:Name="category" Margin="10,80,71,0" TextWrapping="Wrap" Text="Select Item Category" VerticalAlignment="Top" Foreground="#1B5E20" FontSize="22.667" FontWeight="Bold"/>
+            <TextBlock x:Name="itemInfo" Margin="12,192,74,0" TextWrapping="Wrap" Text="Item Information" VerticalAlignment="Top" Foreground="#1B5E20" FontSize="22.667" FontWeight="Bold"/>
+            <TextBox x:Name="txtAddTitle" HorizontalAlignment="Left" Margin="10,235,0,0" TextWrapping="Wrap" PlaceholderText="Add Title" Width="380" BorderBrush="Black"/>
+            <TextBox x:Name="txtItemDescription" HorizontalAlignment="Left" Margin="10,297,0,0" TextWrapping="Wrap" PlaceholderText="Item Description" Width="380" Height="111" BorderThickness="4,2.5,2.5,2.5" BorderBrush="#FF110E0E"/>
+            <ComboBox x:Name="categoryCombo" HorizontalAlignment="Left" Width="380"  FontFamily="open sans" FontSize="20" Height="Auto" Foreground="Black" BorderBrush="Black" Margin="10,119,0,275.667" Background="White">
+                <ComboBoxItem IsSelected="True" Background="#FFECDFDF" Content="Plastic"/>
+                <ComboBoxItem Background="#FFECDFDF" Content="Paper"/>
+                <ComboBoxItem Background="#FFECDFDF" Content="Glass"/>
+                <ComboBoxItem Background="#FFECDFDF" Height="46" Content="Other"/>
+            </ComboBox>
+
+            <TextBlock x:Name="sellingPrice" Margin="10,426,76,0" TextWrapping="Wrap" Text="Selling Price" VerticalAlignment="Top" Foreground="#1B5E20" FontSize="22.667" FontWeight="Bold"/>
+            <TextBox x:Name="txtSellingPrice" Margin="8,473,10,0" TextWrapping="Wrap" PlaceholderText="Add a price if needed" BorderBrush="Black" BorderThickness="1,2.5,2.5,2.5"/>
+            <TextBlock x:Name="contactDetails" Margin="10,530,76,0" TextWrapping="Wrap" Text="Contact Information" VerticalAlignment="Top" Foreground="#1B5E20" FontSize="22.667" FontWeight="Bold"/>
+            <TextBox x:Name="txtContactNumber" HorizontalAlignment="Left" Margin="10,573,0,0" TextWrapping="Wrap" PlaceholderText="Add Contact Number" Width="380" BorderBrush="Black"/>
+            <!--<TextBox x:Name="txtLocation" HorizontalAlignment="Left" Margin="10,627,0,0" TextWrapping="Wrap" PlaceholderText="Enter Location" Width="380" BorderBrush="Black"/>-->
+
+            <Maps:MapControl Name ="GetMap" HorizontalAlignment="Left" Margin="10,750,0,0" Height="250" Width="300" VerticalAlignment="Top" BorderBrush="Black" MapServiceToken="f_9YJRuc43K7UkGUVymEpQ">
+                <Maps:MapControl />
+            </Maps:MapControl>
+
+            <Button x:ConnectionId='1' x:Name="genLocBut" Content="Get My Current Location" HorizontalAlignment="Left" Margin="10,661,0,0" VerticalAlignment="Top" Background="#1B5E20" FontSize="18" Height="50"                        />
+            <TextBlock x:Name="addPhoto" Margin="10,1016,76,226.667" TextWrapping="Wrap" Text="Add A Picture" Foreground="#1B5E20" FontSize="22.667" FontWeight="Bold"/>
+            <Button x:ConnectionId='2' x:Name="uploadPicBut" Content="Upload a picture" HorizontalAlignment="Left" Margin="8,1048,0,0" VerticalAlignment="Top" Background="#1B5E20" FontSize="18" Height="50"                             />
+            <ProgressRing Name="ProgressRing1" IsActive="False" Margin="-7,14,-6,-32.333" ></ProgressRing>
+            <Image x:Name="selectedImage" HorizontalAlignment="Left" Height="141" Margin="14,1128,0,0" VerticalAlignment="Top" Width="208"/>
+            <Button x:ConnectionId='3' x:Name="postAddBut" Content="Post Add" HorizontalAlignment="Left" Margin="14,1285,0,0" VerticalAlignment="Top" Background="#1B5E20" FontSize="18" Height="50"                          Width="376"/>
+            <ProgressRing Name ="mapProgressRing" HorizontalAlignment="Left" Margin="10,750,0,0" VerticalAlignment="Top" Height="250" Width="300"/>
+
+
+
+        </Grid>
+    </ScrollViewer>
+
+
+</Page>
+
